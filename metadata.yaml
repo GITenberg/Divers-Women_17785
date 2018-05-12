@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '7599'
     url: http://www.gutenberg.org/2009/agents/7599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17785#Divers-Women
 gutenberg_issued: '2006-02-17'
 gutenberg_type: Text
 identifiers:
